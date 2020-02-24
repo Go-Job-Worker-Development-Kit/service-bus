@@ -1,1 +1,1 @@
-# service-bus
+# az-service-bus
